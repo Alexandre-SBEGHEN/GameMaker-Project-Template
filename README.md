@@ -1,0 +1,2 @@
+# Project template for GameMaker
+
