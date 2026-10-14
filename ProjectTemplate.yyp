@@ -1,0 +1,44 @@
+{
+  "$GMProject":"v1",
+  "%Name":"ProjectTemplate",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Libraries","folderPath":"folders/Libraries.yy","name":"Libraries","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Better Scaling","folderPath":"folders/Libraries/Better Scaling.yy","name":"Better Scaling","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"ProjectTemplate",
+  "resources":[
+    {"id":{"name":"scr_bs_draw_sprite","path":"scripts/scr_bs_draw_sprite/scr_bs_draw_sprite.yy",},},
+    {"id":{"name":"scr_bs_draw_surface","path":"scripts/scr_bs_draw_surface/scr_bs_draw_surface.yy",},},
+    {"id":{"name":"scr_bs_upscale_method","path":"scripts/scr_bs_upscale_method/scr_bs_upscale_method.yy",},},
+    {"id":{"name":"shd_bs_5xbra","path":"shaders/shd_bs_5xbra/shd_bs_5xbra.yy",},},
+    {"id":{"name":"shd_bs_5xbrb","path":"shaders/shd_bs_5xbrb/shd_bs_5xbrb.yy",},},
+    {"id":{"name":"shd_bs_5xbrc","path":"shaders/shd_bs_5xbrc/shd_bs_5xbrc.yy",},},
+    {"id":{"name":"shd_bs_bicubic","path":"shaders/shd_bs_bicubic/shd_bs_bicubic.yy",},},
+    {"id":{"name":"shd_bs_hq4x","path":"shaders/shd_bs_hq4x/shd_bs_hq4x.yy",},},
+    {"id":{"name":"shd_bs_supersampling_2x2","path":"shaders/shd_bs_supersampling_2x2/shd_bs_supersampling_2x2.yy",},},
+    {"id":{"name":"shd_bs_supersampling_3x3","path":"shaders/shd_bs_supersampling_3x3/shd_bs_supersampling_3x3.yy",},},
+    {"id":{"name":"shd_bs_supersampling_4x4","path":"shaders/shd_bs_supersampling_4x4/shd_bs_supersampling_4x4.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
