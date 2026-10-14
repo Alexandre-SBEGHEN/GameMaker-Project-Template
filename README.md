@@ -17,3 +17,11 @@ Implante les tests unitaires pour tester les projets GameMaker.
 **Liens :**
 - Article de présentation : https://gamemaker.io/fr/tutorials/gamemaker-testing-library-tutorial
 - Repo GitHub : https://github.com/DAndrewBox/GM-Testing-Library
+
+### Scribble
+
+Moteur de rendu pour des textes dynamiques avec effets divers.
+
+**Liens :**
+- Documentation : https://www.jujuadams.com/Scribble/
+- Repo GitHub : https://github.com/JujuAdams/Scribble
